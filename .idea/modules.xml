@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PARcode.iml" filepath="$PROJECT_DIR$/.idea/PARcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Video-VQVAE/.idea/Video-VQVAE.iml" filepath="$PROJECT_DIR$/../Video-VQVAE/.idea/Video-VQVAE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xxqg-helper-master/.idea/xxqg-helper-master.iml" filepath="$PROJECT_DIR$/../xxqg-helper-master/.idea/xxqg-helper-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../xxqg-master/.idea/xxqg-master.iml" filepath="$PROJECT_DIR$/../xxqg-master/.idea/xxqg-master.iml" />
+    </modules>
+  </component>
+</project>
